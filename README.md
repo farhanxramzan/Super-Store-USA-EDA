@@ -1,6 +1,4 @@
 # Super-Store-USA-EDA
-## Super Store USA EDA Summary
-
 ### Project Overview
 The Super Store USA Exploratory Data Analysis (EDA) project focuses on analyzing the sales performance of a super store based in the USA. Utilizing Python and its powerful data analysis libraries, the project aims to uncover valuable insights that can help in understanding sales trends, customer behavior, and overall store performance.
 
